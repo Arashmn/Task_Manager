@@ -30,7 +30,7 @@ This project created by laravel 9 , Boostrap 5 , Php 8.0
 6) Run command **php artisan migrate**
 7) Run command **php artisan db:seed  --class=TaskSeeder** for factory
 8) Run command **php artisan serve** 
-9) Go to the localhost:8000/Task
+9) Go to the localhost:8000/Tasks
 10) Enjoy it :)
 
 ## Some Screenshot from project
